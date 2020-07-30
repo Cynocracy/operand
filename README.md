@@ -1,2 +1,2 @@
 # operand
-Prototype for a Knative Operand library, a layer of abstraction that can be leveraged by Knative-style controllers to simplify the creation of an Operator.
+Prototype for a Knative Operand reconciler, a layer of abstraction that can be leveraged to simplify the creation of a Knative-style Operator controller.
